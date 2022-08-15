@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateu\\Documents\\projetos\\API-CRUD\\API-CRUD\\API-CRUD.csproj": {}
+    "C:\\Users\\mateu\\Documents\\projetos\\API_.net\\API-CRUD\\API-CRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateu\\Documents\\projetos\\API-CRUD\\API-CRUD\\API-CRUD.csproj": {
+    "C:\\Users\\mateu\\Documents\\projetos\\API_.net\\API-CRUD\\API-CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\Documents\\projetos\\API-CRUD\\API-CRUD\\API-CRUD.csproj",
+        "projectUniqueName": "C:\\Users\\mateu\\Documents\\projetos\\API_.net\\API-CRUD\\API-CRUD.csproj",
         "projectName": "API-CRUD",
-        "projectPath": "C:\\Users\\mateu\\Documents\\projetos\\API-CRUD\\API-CRUD\\API-CRUD.csproj",
+        "projectPath": "C:\\Users\\mateu\\Documents\\projetos\\API_.net\\API-CRUD\\API-CRUD.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\Documents\\projetos\\API-CRUD\\API-CRUD\\obj\\",
+        "outputPath": "C:\\Users\\mateu\\Documents\\projetos\\API_.net\\API-CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",

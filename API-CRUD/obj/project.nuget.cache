@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OZl1sofEMXlnY/qVsEuJzEa5Cuph7zQOTf1jZ8lpZe3FCxItoyWylThhU4sFNtMKlU7Qodrij66/9eEni5ATrA==",
+  "dgSpecHash": "jGFB9MDaZKVt1YAdAlYgSoP2hl3hySrYoKOZdBuArmhD2ZcaZWK/h17A3M6enW3Pem8lCAGupyWohUH7HD+6og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mateu\\Documents\\projetos\\API-CRUD\\API-CRUD\\API-CRUD.csproj",
+  "projectFilePath": "C:\\Users\\mateu\\Documents\\projetos\\API_.net\\API-CRUD\\API-CRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mateu\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
